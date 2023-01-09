@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/dialogfom"
+    android:background="@drawable/preview_background_one"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btncloce"
+            android:text="@string/back"
+            android:textStyle="bold"
+            android:textColor="@color/black95"
+            android:gravity="center"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:textSize="20sp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textAllCaps="false"
+            android:layout_gravity="start"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/previewimg"
+            android:src="@drawable/preview_img_one"
+            android:layout_weight="50"
+            android:layout_marginTop="10dp"/>
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="40">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:id="@+id/textdescription"
+                android:text="@string/levelone"
+                android:layout_weight="40"
+                android:textColor="@color/black95"
+                android:textSize="24sp"
+                android:layout_marginTop="10dp"/>
+        </ScrollView>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:id="@+id/btncontinue"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:layout_weight="10"
+            android:text="@string/textcontinue"
+            android:textColor="@color/black95"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

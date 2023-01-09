@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Shinazugawa Genya</string>
+    <string name="lvl1text1">Susamaru</string>
+    <string name="lvl1text2">Haganezuka Hotaru</string>
+    <string name="lvl1text3">Kibutsuji Muzan</string>
+    <string name="lvl1text4">Ubuyashiki Kagaya</string>
+    <string name="lvl1text5">Akaza</string>
+    <string name="lvl1text6">Murata</string>
+    <string name="lvl1text7">Rengoku Senjurou</string>
+    <string name="lvl1text8">Enmu</string>
+    <string name="lvl1text9">Makio</string>
+    <string name="lvl1text10">Uzui Tengen</string>
+    <string name="lvl1text11">Tomioka Giyuu</string>
+    <string name="lvl1text12">Iguro Obanai</string>
+    <string name="lvl1text13">Shinazugawa Sanemi</string>
+    <string name="lvl1text14">Hashibira Inosuke</string>
+    <string name="lvl1text15">Daki</string>
+    <string name="lvl1text16">Kamado Tanjirou</string>
+    <string name="lvl1text17">Kamado Nezuko</string>
+    <string name="lvl1text18">Agatsuma Zenitsu</string>
+    <string name="lvl1text19">Tsuyuri Kanao</string>
+    <string name="lvl1text20">Kochou Shinobu</string>
+    <string name="lvl1text21">Rengoku Kyoujurou</string>
+    <string name="lvl1text22">Kanroji Mitsuri</string>
+    <string name="lvl1text23">Tokitou Muichirou</string>
+    <string name="lvl1text24">Himejima Gyoumei</string>
+
+
+    <string name="lvl1texta0">Kurotsuchi Mayuri</string>
+    <string name="lvl1texta1">Alisa Amiella</string>
+    <string name="lvl1texta2">Amamiya Rindou</string>
+    <string name="lvl1texta3">Soma Schicksal</string>
+    <string name="lvl1texta4">Moriyama Shiemi</string>
+    <string name="lvl1texta5">Okumura Rin</string>
+    <string name="lvl1texta6">Okumura Yukio</string>
+    <string name="lvl1texta7">Suguro Ryuuji</string>
+    <string name="lvl1texta8">Kamiki Izumo</string>
+    <string name="lvl1texta9">Mephisto Pheles</string>
+    <string name="lvl1texta10">Hyakkimaru</string>
+    <string name="lvl1texta11">Tahoumaru</string>
+    <string name="lvl1texta12">Komamura Sajin</string>
+    <string name="lvl1texta13">Kyouraku Shunsui</string>
+    <string name="lvl1texta14">Unohana Retsu</string>
+    <string name="lvl1texta15">Kurosaki Ichigo</string>
+    <string name="lvl1texta16">Mujika</string>
+    <string name="lvl1texta17">Kuchiki Byakuya</string>
+    <string name="lvl1texta18">Grimmjow Jaegerjaques</string>
+    <string name="lvl1texta19">Yamamoto Shigekuni</string>
+    <string name="lvl1texta20">Sui- Feng</string>
+    <string name="lvl1texta21">Hisagi Shuuhei</string>
+    <string name="lvl1texta22">Zaraki Kenpachi</string>
+    <string name="lvl1texta23">Ukitake Juushirou</string>
+    <string name="lvl1texta24">Kuchiki Rukia</string>
+
+
+    <string name="lvl2text0">Yato</string>
+    <string name="lvl2text1">Yukine</string>
+    <string name="lvl2text2">Iki Hiyori</string>
+    <string name="lvl2text3">Kofuku</string>
+    <string name="lvl2text4">Nora</string>
+    <string name="lvl2text5">Kazuma</string>
+    <string name="lvl2text6">Rabou</string>
+    <string name="lvl2text7">Bishamon</string>
+    <string name="lvl2text8">Tenjin</string>
+    <string name="lvl2text9">Fujisaki Kouto</string>
+    <string name="lvl2text10">Ebisu</string>
+    <string name="lvl2text11">Daikoku</string>
+    <string name="lvl2text12">Ebisu</string>
+
+    <string name="lvl2texta0">Momozono Nanami</string>
+    <string name="lvl2texta1">Miketsukami Soushi</string>
+    <string name="lvl2texta2">Shiina Mayuri</string>
+    <string name="lvl2texta3">Hiyajou Maho</string>
+    <string name="lvl2texta4">Rimuru Tempest</string>
+    <string name="lvl2texta5">Diablo</string>
+    <string name="lvl2texta6">Ika Musume</string>
+    <string name="lvl2texta7">Yaotome Urushi</string>
+    <string name="lvl2texta8">Jirou</string>
+    <string name="lvl2texta9">Ookuninushi</string>
+    <string name="lvl2texta10">Kurama Shinjirou</string>
+    <string name="lvl2texta11">Shiba Tatsuya</string>
+    <string name="lvl2texta12">Mizuki</string>
+
+
+    <string name="lvl3text0">Arumin Arureruto</string>
+    <string name="lvl3text1">Mike Zakariasu</string>
+    <string name="lvl3text2">Connie Springer</string>
+    <string name="lvl3text3">Armin Arlert</string>
+    <string name="lvl3text4">Jean Kirstein</string>
+    <string name="lvl3text5">Reiner Braun</string>
+    <string name="lvl3text6">Levi Ackerman</string>
+    <string name="lvl3text7">Hange Zoe</string>
+    <string name="lvl3text8">Krista Lenz</string>
+    <string name="lvl3text9">Erwin Smith</string>
+    <string name="lvl3text10">Annie Leonhart</string>
+    <string name="lvl3text11">Eren Yeager</string>
+    <string name="lvl3text12">Sasha Burausu</string>
+    <string name="lvl3text13">Mikasa Ackerman</string>
+
+    <string name="lvl3texta0">Dustiness Lalatina</string>
+    <string name="lvl3texta1">Kato Haru</string>
+    <string name="lvl3texta2">Yamato Mikoto</string>
+    <string name="lvl3texta3">Zeldris</string>
+    <string name="lvl3texta4">Kiroranke</string>
+    <string name="lvl3texta5">Tsukishima Hajime</string>
+    <string name="lvl3texta6">Rudeus Greyrat</string>
+    <string name="lvl3texta7">Accelerator</string>
+    <string name="lvl3texta8">Lessar</string>
+    <string name="lvl3texta9">Diablo</string>
+    <string name="lvl3texta10">Lisbeth</string>
+    <string name="lvl3texta11">Alice Kisaragi</string>
+    <string name="lvl3texta12">Sheila</string>
+    <string name="lvl3texta13">Misaka Mikoto</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aboutme">Mobile application developer: Anatoly Vinokurov. \n Sholom Aleichem University.</string>
+    <string name="levelone">Choose the hero from anime \nDemon Slayer: Kimetsu no Yaiba</string>
+    <string name="levelonefinishtrue">Congratulations! Level completed! \n\n\n\n\n</string>
+    <string name="levelonefinishfalse">Level failed. \nYou do not have enough stars to access the next level. Try to complete the level again</string>
+    <string name="leveltwo">Choose the hero from anime \nNoragami: Stray God</string>
+    <string name="leveltwofinishtrue">Congratulations! Level completed!\n\n\n\n\n</string>
+    <string name="levelthree">Choose the hero from anime \nAttack on Titan: Shingeki no Kyojin</string>
+    <string name="levelthreefinishtrue">Congratulations! Level completed!\nYou proved that you are a real anime fan!\n More levels coming in the next update! </string>
+</resources>
